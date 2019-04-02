@@ -5,6 +5,6 @@ public class Main {
       greet.greetings();
 
       Cheer cheer = new Cheer();
-      cheer.cheering("Chrysoprase");
+      cheer.cheering("Chrysoprase", "megalotis@gmail.com");
     }
 }
