@@ -6,5 +6,7 @@ public class Main {
 
       Cheer cheer = new Cheer();
       cheer.cheering("Chrysoprase");
+
+      Count.count(12);
     }
 }
