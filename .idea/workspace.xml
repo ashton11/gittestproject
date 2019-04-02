@@ -2,7 +2,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+    <list default="true" id="03b5ce52-b0a6-4bf2-9aac-9032db948a92" name="Default Changelist" comment="">
+=======
+<<<<<<< HEAD
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
     <list default="true" id="182507dc-a37c-4645-958c-1833f2579c9e" name="Default Changelist" comment="">
+>>>>>>> 06e6817360f5b395eec035857bce3ad48f1887d3
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/description.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
@@ -10,6 +17,10 @@
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gittestproject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/gittestproject.iml" afterDir="false" />
+<<<<<<< HEAD
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+=======
+>>>>>>> 06e6817360f5b395eec035857bce3ad48f1887d3
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,11 +34,19 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+            <state relative-caret-position="136">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+              <folding>
+                <element signature="e#141#142#0" expanded="true" />
+                <element signature="e#201#202#0" expanded="true" />
+=======
             <state relative-caret-position="34">
               <caret line="2" column="42" lean-forward="true" selection-start-line="2" selection-start-column="42" selection-end-line="2" selection-end-column="42" />
               <folding>
                 <element signature="e#64#65#0" expanded="true" />
                 <element signature="e#114#115#0" expanded="true" />
+>>>>>>> 06e6817360f5b395eec035857bce3ad48f1887d3
               </folding>
             </state>
           </provider>
@@ -38,18 +57,35 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+<<<<<<< HEAD
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/Main.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="676" />
+    <option name="width" value="697" />
+    <option name="height" value="735" />
+=======
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-10" />
     <option name="y" value="-10" />
     <option name="width" value="1940" />
     <option name="height" value="1050" />
+>>>>>>> 06e6817360f5b395eec035857bce3ad48f1887d3
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+<<<<<<< HEAD
+=======
       <pane id="Scope" />
+>>>>>>> 06e6817360f5b395eec035857bce3ad48f1887d3
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -66,13 +102,21 @@
           <select />
         </subPane>
       </pane>
+<<<<<<< HEAD
+      <pane id="Scope" />
+=======
+>>>>>>> 06e6817360f5b395eec035857bce3ad48f1887d3
       <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+<<<<<<< HEAD
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554200123700" />
+=======
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554199557091" />
+>>>>>>> 06e6817360f5b395eec035857bce3ad48f1887d3
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -93,20 +137,36 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
+<<<<<<< HEAD
+      <changelist id="03b5ce52-b0a6-4bf2-9aac-9032db948a92" name="Default Changelist" comment="" />
+      <created>1554199456077</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1554199456077</updated>
+      <workItem from="1554199462535" duration="752000" />
+=======
       <changelist id="182507dc-a37c-4645-958c-1833f2579c9e" name="Default Changelist" comment="" />
       <created>1554199338649</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1554199338649</updated>
       <workItem from="1554199339945" duration="250000" />
+>>>>>>> 06e6817360f5b395eec035857bce3ad48f1887d3
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
+    <option name="totallyTimeSpent" value="752000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+=======
     <option name="totallyTimeSpent" value="250000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+>>>>>>> 06e6817360f5b395eec035857bce3ad48f1887d3
     <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
@@ -114,8 +174,14 @@
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
+<<<<<<< HEAD
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24962178" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" />
+=======
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24966443" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+>>>>>>> 06e6817360f5b395eec035857bce3ad48f1887d3
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" />
@@ -145,11 +211,19 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="136">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="e#141#142#0" expanded="true" />
+            <element signature="e#201#202#0" expanded="true" />
+=======
         <state relative-caret-position="34">
           <caret line="2" column="42" lean-forward="true" selection-start-line="2" selection-start-column="42" selection-end-line="2" selection-end-column="42" />
           <folding>
             <element signature="e#64#65#0" expanded="true" />
             <element signature="e#114#115#0" expanded="true" />
+>>>>>>> 06e6817360f5b395eec035857bce3ad48f1887d3
           </folding>
         </state>
       </provider>
@@ -159,7 +233,11 @@
     <states>
       <state key="ProjectJDKs.UI">
         <settings>
+<<<<<<< HEAD
+          <last-edited>1.8</last-edited>
+=======
           <last-edited>11</last-edited>
+>>>>>>> 06e6817360f5b395eec035857bce3ad48f1887d3
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -171,6 +249,8 @@
       </state>
     </states>
   </component>
+<<<<<<< HEAD
+=======
 =======
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
@@ -261,4 +341,5 @@
     </configuration>
   </component>
 >>>>>>> e943c66a037782f696101167afbc5acdde07426e
+>>>>>>> 06e6817360f5b395eec035857bce3ad48f1887d3
 </project>
