@@ -4,6 +4,7 @@ public class Future {
 
         System.out.println("Your horoscope " + horoscope);
         System.out.println("This is thy year of " + year);
+        System.out.println("The future is promis... dark.");
     }
 }
 
