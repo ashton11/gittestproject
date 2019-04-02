@@ -5,8 +5,12 @@ public class Main {
       greet.greetings();
 
       Cheer cheer = new Cheer();
+
       cheer.cheering("Chrysoprase");
 
       Count.count(12);
+
+      cheer.cheering("Chrysoprase", "megalotis@gmail.com");
+
     }
 }
