@@ -11,8 +11,6 @@ public class Greet {
 
     System.out.println("Hello " + name1 + " and " + name2 + "!");
 
-    System.out.println("Hello " + name);
-    System.out.println("Greetings for " + name);
 
   }
 }
