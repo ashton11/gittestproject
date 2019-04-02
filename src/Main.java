@@ -1,10 +1,10 @@
 public class Main {
 
     public static void main(String[] args) {
-       greet("Tamás");
+       cheer("Chrysoprase");
     }
 
-    public static void greet(String name){
-        System.out.println("Hello " + name + "! How is your day going so far?");
+    public static void cheer(String teamName){
+        System.out.println("Hey " + teamName + "!");
     }
 }
