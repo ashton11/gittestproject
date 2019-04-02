@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="975409c6-3f07-4bf1-bd4c-a922c50852d7" name="Default Changelist" comment="" />
+    <list default="true" id="975409c6-3f07-4bf1-bd4c-a922c50852d7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/Count.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Count.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -33,7 +35,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Cheer.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="102">
@@ -51,14 +53,14 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Count.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+            <state relative-caret-position="51">
+              <caret line="3" column="59" selection-start-line="3" selection-start-column="59" selection-end-line="3" selection-end-column="59" />
               <folding>
                 <element signature="e#62#63#0" expanded="true" />
-                <element signature="e#102#103#0" expanded="true" />
+                <element signature="e#127#128#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -81,8 +83,8 @@
       <list>
         <option value="$PROJECT_DIR$/src/Future.java" />
         <option value="$PROJECT_DIR$/src/Main.java" />
-        <option value="$PROJECT_DIR$/src/Count.java" />
         <option value="$PROJECT_DIR$/src/Cheer.java" />
+        <option value="$PROJECT_DIR$/src/Count.java" />
       </list>
     </option>
   </component>
@@ -123,7 +125,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554205859327" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554205908016" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -154,7 +156,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1792000" />
+    <option name="totallyTimeSpent" value="2127000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -224,17 +226,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Count.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-          <folding>
-            <element signature="e#62#63#0" expanded="true" />
-            <element signature="e#102#103#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Future.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -264,6 +255,17 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Count.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="59" selection-start-line="3" selection-start-column="59" selection-end-line="3" selection-end-column="59" />
+          <folding>
+            <element signature="e#62#63#0" expanded="true" />
+            <element signature="e#127#128#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
