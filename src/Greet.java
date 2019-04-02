@@ -7,5 +7,6 @@ public class Greet {
 
   public void greetings(){
     System.out.println("Hello " + name);
+    System.out.println("Greetings!");
   }
 }
